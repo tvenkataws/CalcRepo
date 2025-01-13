@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  calculator:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    image: calc
+    container_name: CalcDemo
+    
