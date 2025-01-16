@@ -1,3 +1,0 @@
-this is test file for demo
-line2
-line 3
